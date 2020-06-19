@@ -1,0 +1,8 @@
+basket,800,400
+ball,100,100,GREEN
+ball,100,100,GREEN
+ball,100,100,GREEN
+ball,99,100,GREEN
+ball,999,100,GREEN
+basket,350,180
+ball,12,43,GREEN
